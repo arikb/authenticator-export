@@ -1,0 +1,2 @@
+PyQRCode==1.1
+pyotp==1.4.1
